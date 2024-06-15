@@ -4,4 +4,4 @@
 **GTK 3.0**: *https://docs.gtk.org/gtk3/*
 
 credits to casual.coder for their ncurses tutorial and aducators for gtk\
-gtk: generate compile_commands.json for your LSP with [bear]("https://github.com/rizsotto/Bear")
+gtk: generate compile_commands.json for your LSP with [bear](https://github.com/rizsotto/Bear)
