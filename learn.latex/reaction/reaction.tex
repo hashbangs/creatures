@@ -1,0 +1,41 @@
+\documentclass[10pt,a4paper]{article}
+\usepackage[utf8]{inputenc}
+\usepackage[T1]{fontenc}
+\usepackage{amsmath}
+\usepackage{amsfonts}
+\usepackage{amssymb}
+\usepackage{graphicx}
+\usepackage[version=4]{mhchem}
+\usepackage{tikz}
+\usepackage{pgfplots}
+
+\title{Chemical Reactions}
+
+\begin{document}
+
+  \ce{->} reaction arrow \\
+
+  \ce{HCl -> H+ + Cl-}
+
+  \ce{H2SO4 + 2NaCl -> Na2SO4 + 2HCl} \\
+
+\begin{equation}
+  \Delta = b^2-4ac
+\end{equation}
+
+$$ x = \frac{-b \pm \sqrt{\Delta}}{2a} $$
+
+$$ \ce{x -> f(x)} $$
+$$ f(x) = sin(x) $$
+
+\begin{tikzpicture}
+  \begin{axis} [xmin=-5, xmax=5, ymin=-5, ymax=5, axis x line=middle,
+    axis y line=middle]
+    \addplot[domain=-5:5]{x^2};
+    \addplot[domain=-5:5]{-(x^2)};
+
+\end{axis}
+\end{tikzpicture}
+
+
+\end{document}
