@@ -1,0 +1,27 @@
+# Fdb version 4
+["pdflatex"] 1726992237.97588 "tutorial_01.tex" "tutorial_01.pdf" "tutorial_01" 1726992238.08535 0
+  "/usr/share/texmf-dist/fonts/tfm/public/cm/cmmi10.tfm" 1716849630 1528 abec98dbc43e172678c11b3b9031252a ""
+  "/usr/share/texmf-dist/fonts/tfm/public/cm/cmmi6.tfm" 1716849630 1512 f21f83efb36853c0b70002322c1ab3ad ""
+  "/usr/share/texmf-dist/fonts/tfm/public/cm/cmmi8.tfm" 1716849630 1520 eccf95517727cb11801f4f1aee3a21b4 ""
+  "/usr/share/texmf-dist/fonts/tfm/public/cm/cmr10.tfm" 1716849630 1296 45809c5a464d5f32c8f98ba97c1bb47f ""
+  "/usr/share/texmf-dist/fonts/tfm/public/cm/cmr6.tfm" 1716849630 1300 b62933e007d01cfd073f79b963c01526 ""
+  "/usr/share/texmf-dist/fonts/tfm/public/cm/cmr8.tfm" 1716849630 1292 21c1c5bfeaebccffdb478fd231a0997d ""
+  "/usr/share/texmf-dist/fonts/tfm/public/cm/cmsy10.tfm" 1716849630 1124 6c73e740cf17375f03eec0ee63599741 ""
+  "/usr/share/texmf-dist/fonts/tfm/public/cm/cmsy6.tfm" 1716849630 1116 933a60c408fc0a863a92debe84b2d294 ""
+  "/usr/share/texmf-dist/fonts/tfm/public/cm/cmsy8.tfm" 1716849630 1120 8b7d695260f3cff42e636090a8002094 ""
+  "/usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb" 1716849630 36299 5f9df58c2139e7edcf37c8fca4bd384d ""
+  "/usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb" 1716849630 35752 024fb6c41858982481f6968b5fc26508 ""
+  "/usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmr8.pfb" 1716849630 32726 0a1aea6fcd6468ee2cf64d891f5c43c8 ""
+  "/usr/share/texmf-dist/tex/latex/base/article.cls" 1716849630 20144 147463a6a579f4597269ef9565205cfe ""
+  "/usr/share/texmf-dist/tex/latex/base/size11.clo" 1716849630 8464 59874a3b0776c73e2a138b025d8473dd ""
+  "/usr/share/texmf-dist/tex/latex/l3backend/l3backend-pdftex.def" 1716849630 30006 3d512c0edd558928ddea1690180ef77e ""
+  "/usr/share/texmf-dist/web2c/texmf.cnf" 1716849630 41588 b43d3e860a4f94167ee1e725ff526a72 ""
+  "/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map" 1726952885.19221 325518 3dff2bac5bde75cd7e600320ce8a00d6 ""
+  "/var/lib/texmf/web2c/pdftex/pdflatex.fmt" 1726952866 7112991 7a857fa1c00bea7c3da629b502133b3a ""
+  "tutorial_01.aux" 1726992238.07713 32 3985256e7290058c681f74d7a3565a19 "pdflatex"
+  "tutorial_01.tex" 1726992237.42377 225 c2219dde0baa04adeb76ec36758af977 ""
+  (generated)
+  "tutorial_01.aux"
+  "tutorial_01.log"
+  "tutorial_01.pdf"
+  (rewritten before read)
