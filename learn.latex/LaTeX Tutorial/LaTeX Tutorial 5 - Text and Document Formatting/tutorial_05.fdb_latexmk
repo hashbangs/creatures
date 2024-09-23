@@ -1,8 +1,10 @@
 # Fdb version 4
-["pdflatex"] 1727093258.04088 "tutorial_05.tex" "tutorial_05.pdf" "tutorial_05" 1727093258.21654 0
+["pdflatex"] 1727093991.2543 "tutorial_05.tex" "tutorial_05.pdf" "tutorial_05" 1727093991.44485 0
   "/usr/share/texmf-dist/fonts/tfm/public/cm/cmbx10.tfm" 1716849630 1328 c834bbb027764024c09d3d2bf908b5f0 ""
+  "/usr/share/texmf-dist/fonts/tfm/public/cm/cmbx12.tfm" 1716849630 1324 c910af8c371558dc20f2d7822f66fe64 ""
   "/usr/share/texmf-dist/fonts/tfm/public/cm/cmcsc10.tfm" 1716849630 1300 63a6111ee6274895728663cf4b4e7e81 ""
   "/usr/share/texmf-dist/fonts/tfm/public/cm/cmmi10.tfm" 1716849630 1528 abec98dbc43e172678c11b3b9031252a ""
+  "/usr/share/texmf-dist/fonts/tfm/public/cm/cmmi12.tfm" 1716849630 1524 4414a8315f39513458b80dfc63bff03a ""
   "/usr/share/texmf-dist/fonts/tfm/public/cm/cmmi6.tfm" 1716849630 1512 f21f83efb36853c0b70002322c1ab3ad ""
   "/usr/share/texmf-dist/fonts/tfm/public/cm/cmmi8.tfm" 1716849630 1520 eccf95517727cb11801f4f1aee3a21b4 ""
   "/usr/share/texmf-dist/fonts/tfm/public/cm/cmr10.tfm" 1716849630 1296 45809c5a464d5f32c8f98ba97c1bb47f ""
@@ -16,6 +18,7 @@
   "/usr/share/texmf-dist/fonts/tfm/public/cm/cmti10.tfm" 1716849630 1480 aa8e34af0eb6a2941b776984cf1dfdc4 ""
   "/usr/share/texmf-dist/fonts/tfm/public/cm/cmtt10.tfm" 1716849630 768 1321e9409b4137d6fb428ac9dc956269 ""
   "/usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx10.pfb" 1716849630 34811 78b52f49e893bcba91bd7581cdc144c0 ""
+  "/usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb" 1716849630 32080 340ef9bf63678554ee606688e7b5339d ""
   "/usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmcsc10.pfb" 1716849630 32001 6aeea3afe875097b1eb0da29acd61e28 ""
   "/usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb" 1716849630 35752 024fb6c41858982481f6968b5fc26508 ""
   "/usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb" 1716849630 32722 d7379af29a190c3f453aba36302ff5a9 ""
@@ -59,12 +62,14 @@
   "/usr/share/texmf-dist/web2c/texmf.cnf" 1716849630 41588 b43d3e860a4f94167ee1e725ff526a72 ""
   "/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map" 1726952885.19221 325518 3dff2bac5bde75cd7e600320ce8a00d6 ""
   "/var/lib/texmf/web2c/pdftex/pdflatex.fmt" 1726952866 7112991 7a857fa1c00bea7c3da629b502133b3a ""
-  "tutorial_05.aux" 1727093258.19989 162 55205a9e8a8eca30d36afb389b0617bf "pdflatex"
-  "tutorial_05.out" 1727093258.19322 0 d41d8cd98f00b204e9800998ecf8427e "pdflatex"
-  "tutorial_05.tex" 1727093256.54981 1162 0906c794c0d1f955a49e834ad7e93775 ""
+  "tutorial_05.aux" 1727093991.42645 1370 759780fcf9a85a4e69eee097cee2d303 "pdflatex"
+  "tutorial_05.out" 1727093991.42645 1283 9b3d445ec593e517917f0df673ec54d9 "pdflatex"
+  "tutorial_05.tex" 1727093990.42974 1693 57fdaf5091f8d7b8709d2bda8b0054ec ""
+  "tutorial_05.toc" 1727093991.42645 798 da71630beeadff204b612482d9e9d4a6 "pdflatex"
   (generated)
   "tutorial_05.aux"
   "tutorial_05.log"
   "tutorial_05.out"
   "tutorial_05.pdf"
+  "tutorial_05.toc"
   (rewritten before read)
